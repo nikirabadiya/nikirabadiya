@@ -12,7 +12,6 @@
 
 ## 📬 Contact Me
 
-[![GMAIL](https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red&link=nikitarabadiya270@gmail.com)](nikitarabadiya270@gmail.com)
 [![Linkedin: LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nikita-rabadiya/)](https://www.linkedin.com/in/nikita-rabadiya/)
 ![GitHub followers](https://img.shields.io/github/followers/nikirabadiya?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://nikitarabadiya.com/)](https://nikitarabadiya.com/)
