@@ -3,10 +3,10 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=00b7f1&duration=4000&lines=नमस्ते+(Namaste)!+🙏🏻;+I'm+Nikita+Rabadiya!;" />
 </h1>
 
-### A Passionate Web UI Developer about building beautiful, functional, and user-centric web applications.
+### A Passionate Frontend Developer about building beautiful, functional, and user-centric web applications.
 
 - 🌱 I’m currently learning MERN Stack
-- 💬 Ask me about **HTML, CSS, JavaScript...or anything [here](https://github.com/nikirabadiya/nikirabadiya/issues)**
+- 💬 Ask me about **JavaScript, HTML, CSS...or anything [here](https://github.com/nikirabadiya/nikirabadiya/issues)**
 
 <br>
 
